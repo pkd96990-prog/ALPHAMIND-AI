@@ -1,4 +1,7 @@
 # 🧠 AlphaMind AI
+## 🚀 Live Demo
+
+Explore AlphaMind AI here: https://alphamind-ai-dm6ygtqfzwvpes6sesgr4w.streamlit.app/#msft-stock-layoffs-what-to-know-as-microsoft-cuts-jobs-in-xbox-unit-yahoo-finance
 
 ## Financial Market Intelligence Platform
 
